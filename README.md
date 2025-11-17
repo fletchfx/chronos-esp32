@@ -1,4 +1,4 @@
-# chronos-esp32
+# chronos-esp32-IOT
 A wrapper library for ESP32 to facilitate easy setup of a smartwatch like project. Supports syncing of notifications from the phone.
 Setup your ESP32 as a smartwatch and connect to Chronos app over BLE.
 
