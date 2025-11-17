@@ -6,7 +6,7 @@ Setup your ESP32 as a smartwatch and connect to Chronos app over BLE.
 [![PlatformIO Registry](https://badges.registry.platformio.org/packages/fbiego/library/ChronosESP32.svg)](https://registry.platformio.org/libraries/fbiego/ChronosESP32)
 
 ## Specialized update
-The examples shown here are a scaled down version of the example application for the purpose of sending notifications to IOT devices. In this case, its an old school
+The IOT example is scaled down version of the example applications for the purpose of sending notifications to IOT devices. In this case, its an old school
 Motorola Advisor pager with a ESP32C6 module with ble. In short it recieves the notification and then sends the data out the Hardware Serial port on D6 pin to a companion
 device waiting to recieve the data.
 
